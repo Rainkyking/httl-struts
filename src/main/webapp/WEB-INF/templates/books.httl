@@ -6,7 +6,7 @@
 	<table>
 		<tr>
 			<td>序号</td>
-			<td>标题</td>
+			<td>${"book.title".message}</td>
 			<td>作者</td>
 			<td>出版商</td>
 			<td>出版时间</td>
